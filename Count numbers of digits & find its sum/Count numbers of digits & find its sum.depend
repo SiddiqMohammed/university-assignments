@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443562611 source:e:\program files\codes\count numbers of digits & find its sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
